@@ -1,4 +1,0 @@
-#+TITLE: Elements
-
-* TODO QC plots for MacroSheds
-* TODO update Emily HBEF portfolio
