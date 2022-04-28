@@ -1,0 +1,3 @@
+#+TITLE: Notes
+- allow user to hard-download sites and variables
+- allow user to do 'greedy' ?ms_load_product where it's okay to load in NAs, so you can load a bunch of sites and variables even if there's heterogeuous coverage
